@@ -20,7 +20,7 @@ Excel Macro for Vim keybindings
 ## InsertMode
 |key|Description|
 | --------------- |:---------------:|
-|Shit-ESC |Change to Insert Mode|
+|Shit-ESC |Change to Normal Mode|
 
 ## LICENSE
 MIT
