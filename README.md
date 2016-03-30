@@ -3,7 +3,7 @@ Excel Macro for Vim keybindings
 
 ## NormalMode
 |key|Description|
-|:-|:-|
+| --------------- |:---------------:|
 |Ctrl-h |cell move to right|
 |Ctrl-j |cell move to down|
 |Ctrl-k |cell move to up|
@@ -19,7 +19,7 @@ Excel Macro for Vim keybindings
 
 ## InsertMode
 |key|Description|
-|:-|:-|
+| --------------- |:---------------:|
 |Shit-ESC |Change to Insert Mode|
 
 ## LICENSE
